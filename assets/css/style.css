@@ -1,0 +1,97 @@
+header {
+	width: 1024px;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+h1 {
+	height: 100px;
+	width: 30%;
+	font-family: "Georgia", times new roman, times, serif;
+	background-color:  #00b38f;
+	float: left;
+	font-size: 36px;
+	padding-top: 80px;
+	padding: 32px 10px 32px 10px;
+	color: #fff;
+	text-align: center;
+}
+
+ul #header {
+	float: left;
+	height: 100px;
+	width: 70%;
+}
+ul #aboutme {
+	float: right;
+	width: 100px;
+	font-size: 24px;
+	font-color: #222;
+	border-right: 2px solid #222;
+	padding: 0 5px 0 5px;
+	display: inline;
+	list-style-type: none;
+}
+
+ul #contact {
+	float: right;
+	width: 100px;
+	font-size: 24px;
+	font-color: #222;
+	border-right: 2px solid #222;
+	padding: 0 5px 0 5px;
+	display: inline;
+	list-style-type: none;
+}
+
+ul #portfolio {
+	float: right;
+	width: 100px;
+	font-size: 24px;
+	font-color: #222;
+	border-right: 2px solid #222;
+	padding: 0 5px 0 5px;
+	display: inline;
+	list-style-type: none;
+}
+section .aboutme {
+	width: 70%;
+}
+
+section .connect {
+	width: 30%;
+}
+img #headshot {
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+img #github {
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding: 25px;
+}
+
+
+img #linkedin {
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding: 25px;
+}
+
+img #stack {
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding: 25px;
+}
+footer {
+	background-color: #00b38f;
+	color: #fff;
+	text-align: center;
+	padding: 10px 0 10px 0;
+	clear: both;
+}
