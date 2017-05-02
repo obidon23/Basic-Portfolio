@@ -100,7 +100,7 @@ p {
 }
 
 .connects {
-	margin: 10px;
+	margin: 16px;
 	height: 50px;
 	width: 50px;
 	float: left;
@@ -155,20 +155,20 @@ footer {
 	color: #666;
 }
 
-#portfolio {
+.portfolio {
 	height: 200px;
 	width: 265px;
 	margin: 7px;
 	float: left;
-	position: relative;
-	bottom: -50px;
+
 }
 
 h4 {
 	display: block;
+	position: relative;
 	height: 60px;
 	width: 265px;
-	bottom: 50px;
+	bottom: 90px;
 	background-color: #4aaaa5;
 	color: #fff;
 	text-align: center;
